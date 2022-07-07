@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.871,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\UplataRate.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\UgovorStampa.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Izvestaj.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Obrisati.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\DataModule.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.049,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\EmployeeForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Izvestaj.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Obrisati.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\KupacDetalji.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\obrisi.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.510,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\KupacDetalji.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.000,=C:\Users\simo.mrdjen\Desktop\SIMO\63 najnovije\LatCyrConv.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.599,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\UplataRate.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\ugovorDetalji.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Kopija.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Kopija.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\ugovorDetalji.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\UgovorStampa.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,=c:\program files (x86)\embarcadero\studio\17.0\ObjRepos\EN\DelphiWin32\OKCNHLP2.PAS</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,=K:\BIS Trezor\PAVEL\Simo\modul.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\obrisi2.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\DataModule.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.538,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\obrisi.dfm=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Employee.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.497,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,=K:\BIS Trezor\PAVEL\Ljiljana_M\Ostalo\INDIREKTNI\CodePageConv.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\obrisi2.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.048,C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\simo.mrdjen\Documents\Embarcadero\Studio\Projects\Employee\EmployeeForm.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\..\..\..\..\simo.mrdjen"/>
+    <File Path="..\..\..\..\..\Desktop"/>
+    <File Path="..\..\..\..\..\Desktop\SIMO"/>
+    <File Path="..\..\..\..\..\Desktop\SIMO\63 najnovije"/>
+    <File Path="..\..\..\..\..\Desktop\SIMO\63 najnovije\LatCyrConv.pas"/>
+    <File Path="K:"/>
+    <File Path="K:\BIS Trezor"/>
+    <File Path="K:\BIS Trezor\PAVEL"/>
+    <File Path="K:\BIS Trezor\PAVEL\Ljiljana_M"/>
+    <File Path="K:\BIS Trezor\PAVEL\Ljiljana_M\Ostalo"/>
+    <File Path="K:\BIS Trezor\PAVEL\Ljiljana_M\Ostalo\INDIREKTNI"/>
+    <File Path="K:\BIS Trezor\PAVEL\Ljiljana_M\Ostalo\INDIREKTNI\CodePageConv.pas"/>
+    <File Path="K:\BIS Trezor\PAVEL\Simo"/>
+    <File Path="K:\BIS Trezor\PAVEL\Simo\modul.pas"/>
+    <File Path="DataModule.pas"/>
+    <File Path="DataModule.dfm"/>
+    <File Path="EmployeeForm.pas"/>
+    <File Path="EmployeeForm.dfm"/>
+    <File Path="KupacDetalji.pas"/>
+    <File Path="KupacDetalji.dfm"/>
+    <File Path="ugovorDetalji.pas"/>
+    <File Path="ugovorDetalji.dfm"/>
+    <File Path="UgovorStampa.pas"/>
+    <File Path="UgovorStampa.dfm"/>
+    <File Path="UplataRate.pas"/>
+    <File Path="UplataRate.dfm"/>
+    <File Path="Izvestaj.pas"/>
+    <File Path="Izvestaj.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
